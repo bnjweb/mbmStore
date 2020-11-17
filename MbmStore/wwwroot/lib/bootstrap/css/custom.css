@@ -1,0 +1,20 @@
+﻿div.panel {
+    padding-top: 2em;
+}
+h2 {
+    font-size: 150%;
+}
+td {
+    padding: 4px 0;
+}
+
+td.product-details {
+    width: 300px;
+    vertical-align: top;
+    padding: 12px;
+}
+
+td.product-image img {
+    width:120px;
+}
+
